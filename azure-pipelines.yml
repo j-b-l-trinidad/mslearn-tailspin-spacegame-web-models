@@ -11,8 +11,6 @@ steps:
   inputs:
     version: '$(dotnetSdkVersion)'
 
-# a
-
 # - task: Npm@1
 #   displayName: 'Run npm install'
 #   inputs:
